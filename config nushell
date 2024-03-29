@@ -1,2 +1,3 @@
+$nu.config-path
 use ~/.cache/starship/init.nu
 alias y = yt-dlpd
